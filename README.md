@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Lucas-Suzuki2209
+- 👀 I’m interested in learning more about how to dev and promote my own features, and my future expec is to work on Google
+- 🌱 I’m currently learning software engineering on UTFPR
+- 💞️ I’m looking to collaborate on easy projects for starter students
+- 📫 How to reach me you can reach me by github or email: lumarcondessuzuki@gmail.com
